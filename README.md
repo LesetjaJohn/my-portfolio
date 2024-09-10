@@ -1,4 +1,11 @@
 # MyPortfolio
+![Running website homepage](MyPortfolio-1.PNG)
+
+# Deployed Site on Github Pages
+[Github Pages](https://lesetjajohn.github.io/my-portfolio/)
+
+# Technologies Used
+Angular ~ Typescript ~ Bootstrap
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.1.
 
