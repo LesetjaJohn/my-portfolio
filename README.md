@@ -8,7 +8,7 @@
 Angular ~ Typescript ~ Bootstrap ~ HTML ~ CSS
 
 # How to run this Project Locally
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.1.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.1.\n
 1st: Clone this Repository to a local folder on your computer
 2nd: Open terminal on your coding environment
 3rd: On the terminal, navigate to the project's directory. e.g cd my-porfolio
