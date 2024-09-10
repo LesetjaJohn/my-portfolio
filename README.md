@@ -6,13 +6,13 @@
 
 # Technologies Used
 Angular ~ Typescript ~ Bootstrap ~ HTML ~ CSS
-<br>
+<br><br>
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.1.
 # How to run this Project Locally
-1. 1st: Clone this Repository to a local folder on your computer
-2. 2nd: Open terminal on your coding environment
-3. 3rd: On the terminal, navigate to the project's directory. e.g cd my-porfolio
-4. 4th: then run `npm start` or `ng serve` for a dev server. Continue with further instructions below
+1. Clone this Repository to a local folder on your computer
+2. Open terminal on your coding environment
+3. On the terminal, navigate to the project's directory. e.g cd my-porfolio
+4. Run `npm start` or `ng serve` for a dev server. Continue with further instructions below
 
 ## Development server
 
