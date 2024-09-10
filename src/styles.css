@@ -1,1 +1,29 @@
-/* You can add global styles to this file, and also import other style files */
+/* You can add global styles to this file, and also import other style files 
+/<uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 100 to 900*/
+
+.montserrat {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.container{ 
+  text-align: center;
+}
+
+.homeContainer, .aboutContainer, .portContainer, .contContainer{
+  background-image: url("/210889.jpg");
+  background-size: cover;
+  border: 2px solid;
+}
+.aboutContainer{
+  background-image: url("/210912.jpg");
+}
+.portContainer{
+  background-image: url("/210915.jpg");
+}
+.contContainer{
+  background-image: url("/367177.jpg");
+}
