@@ -2,7 +2,7 @@
 ![Running website homepage](MyPortfolio-1.PNG)
 
 # Deployed Site on Github Pages
-[Vist Site](https://lesetjajohn.github.io/my-portfolio/)
+[Visit Site](https://lesetjajohn.github.io/my-portfolio/)
 
 # Technologies Used
 Angular ~ Typescript ~ Bootstrap ~ HTML ~ CSS
