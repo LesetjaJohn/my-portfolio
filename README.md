@@ -2,20 +2,21 @@
 ![Running website homepage](MyPortfolio-1.PNG)
 
 # Deployed Site on Github Pages
-[Github Pages](https://lesetjajohn.github.io/my-portfolio/)
+[Vist Site](https://lesetjajohn.github.io/my-portfolio/)
 
 # Technologies Used
-Angular ~ Typescript ~ Bootstrap
+Angular ~ Typescript ~ Bootstrap ~ HTML ~ CSS
 
+# How to run this Project Locally
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.1.
+1st: Clone this Repository to a local folder on your computer
+2nd: Open terminal on your coding environment
+3rd: On the terminal, navigate to the project's directory. e.g cd my-porfolio
+4th: then run `npm start` or `ng serve` for a dev server. Continue with further instructions below
 
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
 ## Build
 
