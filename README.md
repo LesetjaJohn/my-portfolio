@@ -1,8 +1,8 @@
 # MyPortfolio
 ![Running website homepage](MyPortfolio-1.PNG)
 
-# Deployed Site on Github Pages
-[Visit Site](https://lesetjajohn.github.io/my-portfolio/)
+# Deployed Site on Vercel
+[Visit Site](https://my-portfolio-three-nu-17.vercel.app/home/)
 
 # Technologies Used
 Angular ~ Typescript ~ Bootstrap ~ HTML ~ CSS
